@@ -11,19 +11,75 @@ button {
     box-shadow: 1px 1px 2px rgb(0 0 200 / 0.4);
 }
 
+button1 {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    background-color: blue;
+    text-align: center;
+    color: beige;
+    letter-spacing: 2px;
+    cursor: pointer;
+    border: 2px solid rgb(200 200 0 / 0.6);
+    box-shadow: 1px 1px 2px rgb(0 0 200 / 0.4);
+}
+
+button2 {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    background-color: cornsilk;
+    text-align: center;
+    color: blueviolet;
+    letter-spacing: 2px;
+    cursor: pointer; 
+    border: 2px solid rgb(200 200 0 / 0.6);
+    box-shadow: 1px 1px 2px rgb(0 0 200 / 0.4);
+}
+
 body {
     background-color: fuchsia;
 }
 
-p1{
+a {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
     font-size: xx-large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: crimson;
-    position: absolute;
+    background-color: aquamarine;
 }
 
-p2{
-    font-size: large;
+p1 {
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgoldenrod;
+    background-color: darkgreen;
+}
+
+p2 {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+}
+
+p3 {
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+p4 {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+}
+
+p5 {
+    font-size: xx-large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: blue;
+    color: cornsilk;
 }
